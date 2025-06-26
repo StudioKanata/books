@@ -5,6 +5,12 @@ class GoodClass {
     method : getKuma()
 }
 
-class BadClass {
+class OnlyVariable {
     
 }
+
+class OnlyMethod {
+
+}
+
+@enduml
