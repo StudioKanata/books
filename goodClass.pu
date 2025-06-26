@@ -1,0 +1,10 @@
+@startuml
+
+class GoodClass {
+    field : kuma
+    method : getKuma()
+}
+
+class BadClass {
+    
+}
